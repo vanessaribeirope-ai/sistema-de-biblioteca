@@ -137,7 +137,7 @@ while opcao!= 7:
         quantidade = 0
 
         for livro in livros:
-            if livro[3].strip.lower() == "Disponível":
+            if livro[3].strip().lower() == "disponível":
                 quantidade = quantidade + 1
 
         print ("Quantidade de livros disponíveis:", quantidade)
