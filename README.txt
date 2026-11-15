@@ -13,3 +13,7 @@ Como executar o programa:
 3. Clique no botão de executar da célula para iniciar o programa.
 4. Quando o menu aparecer, digite o número da opção desejada e pressione Enter.
 5. Para encerrar o programa, escolha a opção 7 - Sair.
+
+Interface gráfica com Gradio
+O sistema possui uma interface gráfica desenvolvida com Gradio, permitindo cadastrar, listar, pesquisar, emprestar, devolver e excluir livros, além de contar os disponíveis.
+Os dados são armazenados em um arquivo CSV.
